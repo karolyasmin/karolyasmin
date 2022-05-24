@@ -1,0 +1,14 @@
+-#quem sou eu
+- ##meu perfil
+- 
+-   👋 olá ,eu sou **@karolyasmin**,**estudante** 
+-   🌸 A gente ja finalizou o curso de **scritch**.
+-     🖤 eu faço aula de pensamento  computacional.
+-    🙂 eu estou  atualmente aprendendo a programação de codigo....
+-   ♥️ tenho interesse em fazer faculdade de direito.
+-   😊 atualmente estou no 1 ano do ensino medio.
+-   
+- 
+- 
+-
+--->
